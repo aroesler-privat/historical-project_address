@@ -1,0 +1,79 @@
+/****************************************************************************
+
+
+adresse.rh
+
+produced by Borland Resource Workshop
+
+
+*****************************************************************************/
+
+#define AdressenIcon	1000
+#define PrintDialog	1005
+  #define DATA_GROUPBOX1	101
+  #define DATA_GROUPBOX2	107
+  #define IDC_OnlyThis	112
+  #define IDC_All	102
+  #define IDC_FromTo	103
+  #define IDC_AdrAnschrift	104
+  #define IDC_AdrAbsender	109
+  #define IDC_AdrListe	108
+  #define IDC_PrintFields	111
+  #define IDC_PrinterSetup	998
+  #define IDC_AdrFrom	105
+  #define IDC_AdrTo	106
+#define AdrAccel	1000
+#define SearchDialog	1006
+  #define IDC_Chars	   102
+  #define IDC_FromBegin	103
+// Dialog um Größe der Felder einer neuen Datei festzulegen
+#define QualityDialog  1004
+  #define IDC_Fields	  101
+  #define IDC_Length	  102
+  #define IDC_OK	     103
+  #define IDC_Cancel	  104
+#define IDC_SubString	105
+// Dialog zum Sorieren
+#define SortDialog	     1003
+  #define IDC_SortFirst	  101
+  #define IDC_SortSecond  102
+// Dialog zum Anzeigen der Feldeigenschaften der Datenbank
+#define DatenDialog	 1002
+  #define IDC_Felder	 101
+  #define IDC_Data	 102
+// Hauptdialog: Adresse und Zugänge zu anderen Dialogen
+#define MainDialog	     1001
+  #define IDC_Name	     101
+  #define IDC_Vorname	  102
+  #define IDC_Strasse	  103
+  #define IDC_PLZ	        104
+  #define IDC_Ort	        105
+  #define IDC_Telefon	  106
+  #define IDC_Telefax	  107
+  #define IDC_Info	     108
+  #define IDC_File	     109
+  #define IDC_Adresse     110
+  #define IDC_Print       111
+  #define IDC_Search	     112
+  #define IDC_First	     113
+  #define IDC_Last	     114
+  #define IDC_Left	     115
+  #define IDC_Right	     116
+  #define IDC_Exit	     117
+  #define IDC_StatusBar	  139
+  #define IDC_AdrNr       138
+  #define IDC_SearchAgain 140
+//File-Kontextmenü
+  #define IDC_FileNew     127
+  #define IDC_FileOpen    128
+  #define IDC_Quality     129
+  #define IDC_FileSaveAs  130
+  #define IDC_FileInfos   131
+//Adresse-Kontextmenü
+  #define IDC_AdrNew      132
+  #define IDC_AdrDelete   133
+  #define IDC_AdrSave     134
+  #define IDC_AdrRestore  135
+  #define IDC_AdrReadOnly 136
+  #define IDC_AdrSort     137
+
