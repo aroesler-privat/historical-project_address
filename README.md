@@ -5,7 +5,7 @@ Like probably every other student, I wanted to earn my own money alongside schoo
 At university I programmed in C under Linux. That seemed more exciting to me than the [Pascal stuff](https://github.com/aroesler-privat/historical-project_chemistry) I had been working on for the last few months. So I read up on programming in C under Windows on the side. Just to mention it: YouTube hadn't been invented yet, I had to take the bus to university for the internet and the most useful information was available in books I borrowed from the library. Sounds almost prehistoric from today's perspective. 
 
 > [!NOTE]
-> Untouched since 1996-04-11 ... Pay attention to the date of the last write access!
+> Untouched since 1996-04-11. Pay attention to the date of the last write access ("letzter Schreibzugriff")!
 
 ![Screenshot of the Code in Action](screenshots/db_about.jpg)
 
