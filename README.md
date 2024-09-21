@@ -23,4 +23,9 @@ There are a few hiccups you should know about: I never implemented database encr
 
 # Compile the source code
 
+![Screenshot of the Borland C++ 4.5 installer](screenshots/bc45_installer.jpg)
+
+> [!NOTE]
+> Disk 25. And it was not the last disk. Luckily I installed from an ISO-image :-).
+
 To compile the source code you need Borland C++ 4.5. I have built the dialogs in the [Resource Workshop](screenshots/bc45_dialogs.jpg). The project file ([address.ide](src/ADRESSE.IDE)) must be opened in the IDE (graphical user interface of the compiler). The source code cannot be compiled in Win32. Please make sure to [set the directories](screenshots/bc45_directories.jpg) according to your setup. 
