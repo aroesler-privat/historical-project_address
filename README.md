@@ -14,3 +14,13 @@ At university I programmed in C under Linux. That seemed more exciting to me tha
 # Run it
 
 Obviously you need a compatible version of Windows to run this great address manager. In this case, the limit is probably a version that can handle 16-bit. It still worked in Windows 7 :-). However, Windows 3.1x is the most recommended version for an appropriate retro feeling.
+- install Windows 3.1x as described [here](doc/INSTALL-win31.md)
+- download both files from [/bin](bin/) to your PC
+- start ADRESSE.EXE from File Manager
+- create a new database
+
+There are a few hiccups you should know about: I never implemented database encryption. Printing works, but somehow not really. And the search is still just behind the usability standards of 1996 :-).
+
+# Compile the source code
+
+To compile the source code you need Borland C++ 4.5. I have built the dialogs in the [Resource Workshop](screenshots/bc45_dialogs.jpg). The project file ([address.ide](src/ADRESSE.IDE)) must be opened in the IDE (graphical user interface of the compiler). The source code cannot be compiled in Win32. Please make sure to [set the directories](screenshots/bc45_directories.jpg) according to your setup. 
