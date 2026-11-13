@@ -158,5 +158,5 @@ FONT 8, "MS Sans Serif"
  GROUPBOX "Layout", DATA_GROUPBOX2, 5, 50, 180, 45, BS_GROUPBOX | WS_CHILD | WS_VISIBLE
 }
 
-AdressenIcon ICON "d:/applicat/pictures/icon/mail.ico"
+AdressenIcon ICON "mail.ico"
 
